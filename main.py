@@ -22,5 +22,3 @@ def get_voltage():
         # Close serial port
         ser.close()
 
-if __name__ == '__main__':
-    app.run()
